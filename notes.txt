@@ -1,0 +1,12 @@
+List the types of files and permissions:
+ll
+
+Change the Permisions;
+sudo chmod 777 (fileName)
+
+Run the bash file:
+./(fileName)
+
+Open the file in gedit:
+
+gedit ./(fileName)
